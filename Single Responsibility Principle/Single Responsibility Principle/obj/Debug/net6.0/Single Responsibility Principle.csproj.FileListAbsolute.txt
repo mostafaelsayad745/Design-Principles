@@ -1,0 +1,15 @@
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.csproj.AssemblyReference.cache
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.AssemblyInfoInputs.cache
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.AssemblyInfo.cs
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.csproj.CoreCompileInputs.cache
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.exe
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.deps.json
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.runtimeconfig.json
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.dll
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.pdb
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.dll
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\net6.0\refint\Single Responsibility Principle.dll
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.pdb
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.genruntimeconfig.cache
+D:\c#\Design Principles\4\Single Responsibility Principle\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\net6.0\ref\Single Responsibility Principle.dll
