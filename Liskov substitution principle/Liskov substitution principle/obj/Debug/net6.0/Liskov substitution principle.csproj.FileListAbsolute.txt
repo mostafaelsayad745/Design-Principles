@@ -1,0 +1,15 @@
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\bin\Debug\net6.0\Liskov substitution principle.exe
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\bin\Debug\net6.0\Liskov substitution principle.deps.json
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\bin\Debug\net6.0\Liskov substitution principle.runtimeconfig.json
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\bin\Debug\net6.0\Liskov substitution principle.dll
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\bin\Debug\net6.0\Liskov substitution principle.pdb
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\obj\Debug\net6.0\Liskov substitution principle.csproj.AssemblyReference.cache
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\obj\Debug\net6.0\Liskov substitution principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\obj\Debug\net6.0\Liskov substitution principle.AssemblyInfoInputs.cache
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\obj\Debug\net6.0\Liskov substitution principle.AssemblyInfo.cs
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\obj\Debug\net6.0\Liskov substitution principle.csproj.CoreCompileInputs.cache
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\obj\Debug\net6.0\Liskov substitution principle.dll
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\obj\Debug\net6.0\refint\Liskov substitution principle.dll
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\obj\Debug\net6.0\Liskov substitution principle.pdb
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\obj\Debug\net6.0\Liskov substitution principle.genruntimeconfig.cache
+D:\c#\Design Principles\4\Liskov substitution principle\Liskov substitution principle\Liskov substitution principle\obj\Debug\net6.0\ref\Liskov substitution principle.dll
