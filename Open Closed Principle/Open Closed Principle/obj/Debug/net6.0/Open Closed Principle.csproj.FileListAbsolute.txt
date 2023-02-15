@@ -1,0 +1,15 @@
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.csproj.AssemblyReference.cache
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.AssemblyInfoInputs.cache
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.AssemblyInfo.cs
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.csproj.CoreCompileInputs.cache
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\bin\Debug\net6.0\Open Closed Principle.exe
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\bin\Debug\net6.0\Open Closed Principle.deps.json
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\bin\Debug\net6.0\Open Closed Principle.runtimeconfig.json
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\bin\Debug\net6.0\Open Closed Principle.dll
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\bin\Debug\net6.0\Open Closed Principle.pdb
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.dll
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\net6.0\refint\Open Closed Principle.dll
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.pdb
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.genruntimeconfig.cache
+D:\c#\Design Principles\4\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\net6.0\ref\Open Closed Principle.dll
