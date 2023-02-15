@@ -1,0 +1,15 @@
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\bin\Debug\net6.0\Loose Coupling.exe
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\bin\Debug\net6.0\Loose Coupling.deps.json
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\bin\Debug\net6.0\Loose Coupling.runtimeconfig.json
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\bin\Debug\net6.0\Loose Coupling.dll
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\bin\Debug\net6.0\Loose Coupling.pdb
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\obj\Debug\net6.0\Loose Coupling.csproj.AssemblyReference.cache
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\obj\Debug\net6.0\Loose Coupling.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\obj\Debug\net6.0\Loose Coupling.AssemblyInfoInputs.cache
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\obj\Debug\net6.0\Loose Coupling.AssemblyInfo.cs
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\obj\Debug\net6.0\Loose Coupling.csproj.CoreCompileInputs.cache
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\obj\Debug\net6.0\Loose Coupling.dll
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\obj\Debug\net6.0\refint\Loose Coupling.dll
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\obj\Debug\net6.0\Loose Coupling.pdb
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\obj\Debug\net6.0\Loose Coupling.genruntimeconfig.cache
+D:\c#\Design Principles\Loose Coupling\Loose Coupling\obj\Debug\net6.0\ref\Loose Coupling.dll
